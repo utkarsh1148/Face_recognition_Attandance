@@ -14,4 +14,6 @@ Students apply proxies of each other which makes indeciplane in Collage. Our AI 
 
 ![Arm](gif3.gif)
 
+## Importing Model...
 
+You can contact me for my model at utkarsh1148@gmail.com
