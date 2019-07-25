@@ -12,6 +12,6 @@ Students apply proxies of each other which makes indeciplane in Collage. Our AI 
 
 ## Demo
 
-
+![Arm](gif3.gif)
 
 
